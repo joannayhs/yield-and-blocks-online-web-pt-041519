@@ -1,7 +1,6 @@
 def hello_t(array)
-  array.each do |name|
-    puts "#{name}"
-  end
+  i = 0
+  while i < array.length
 end
 
 # call your method here!
